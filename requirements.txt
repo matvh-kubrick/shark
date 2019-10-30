@@ -1,0 +1,4 @@
+DateTime==4.3
+pyodbc==4.0.27
+pytz==2019.3
+zope.interface==4.6.0
